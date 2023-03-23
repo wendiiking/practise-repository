@@ -2,6 +2,9 @@
 
 
 <span style="color:blue">
+
+ ![AE](https://www.jobberman.com/build/static-assets/img/jobberman-theme/employer/anonymous-employer-logo.4e8af801.svg)
+ 
 Finance Manager
 
 ---
@@ -51,9 +54,9 @@ Finance Manager
 ---
 ## <span style="color:blue"> __Job Renumeration__ </span>
 <span style="color:black"> 
-**Renumeration:** **NGN** 515,000 gross
 
-* Net (after deductions of paye & employee’s pension)- **NGN** 420,000
+**Renumeration: NGN** 515,000 gross
+* Net (after deductions of pay & employee’s pension)- **NGN** 420,000
 * Employers pension contribution
 * Registration with HMO (medical health provider)
 * Leave allowance (10% of annual basic)
@@ -64,8 +67,8 @@ Finance Manager
 ---
 ## <span style="color:blue"> __Links__ </span>
 
-* job was posted bt The Law Crest LLP:  
-[link text](link URL “title”) becomes [Jobberman](https://www.jobberman.com/listings/finance-manager-q70znk")
+* Job was posted by The Law Crest LLP:  
+[Finance Manager](https://www.jobberman.com/listings/finance-manager-q70znk")
 
 
 ---
